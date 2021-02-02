@@ -13,7 +13,7 @@
       "url": "https://github.com/fingertwiddler/settings.git"
     }
   },
-  "modules": {
+  "trigger": {
     "onpublish": [
       "/plugin/theme/onpublish",
       "/plugin/rss/onpublish"
